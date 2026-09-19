@@ -1,0 +1,20 @@
+{
+  "Please note:": "請注意：",
+  "Incompatible Mod": "不相容的 Mod",
+  "View Load Order File": "檢視載入順序檔案",
+  "Mods failed migration": "Mods 遷移失敗",
+  "Failed to migrate mods": "遷移 mods 失敗",
+  "Missing Game.json file": "缺少 Game.json 檔案",
+  "Managing your load order": "管理你的載入順序",
+  "Manifest is missing or invalid": "資訊清單遺失或無效",
+  "Blade & Sorcery version mismatch": "Blade & Sorcery 版本不符",
+  "failed to write to load order file": "寫入載入順序檔案失敗",
+  "The load order file will only be picked up by the game in version 8.4 Beta 5 and above": "只有 8.4 Beta 5 以上版本的遊戲才會讀取載入順序檔案",
+  "You can adjust the load order for Blade and Sorcery by dragging and dropping mods up or down on this page.": "你可以在這個頁面上下拖放 mods 來調整 Blade and Sorcery 的載入順序。",
+  "Your game copy is missing its Game.json file, please try running the game at least once, or re-install the game.": "你的遊戲缺少 Game.json 檔案，請嘗試至少執行遊戲一次，或重新安裝遊戲。",
+  "If you cannot see your manually added mod in this load order - click refresh and Vortex should be able to pick it up as long as it has a valid manifest.json file.": "如果你在這個載入順序中看不到手動加入的 mod－請按重新整理，只要它有有效的 manifest.json 檔案，Vortex 應該就能找到它。",
+  "The mod you're attempting to install is not compatible with Blade and Sorcery 6.0+ and cannot be installed by Vortex. Please check the mod page for an updated version.": "你嘗試安裝的 mod 與 Blade and Sorcery 6.0+ 不相容，Vortex 無法安裝。請到 mod 頁面查看是否有更新的版本。",
+  "Vortex has detected a change in the installed version of Blade & Sorcery since the last deployment. Some of your mods may not work correctly. Please restart Vortex to fix this issue.": "Vortex 偵測到自上次部署以來，已安裝的 Blade & Sorcery 版本有變。你的某些 mods 可能無法正常運作。請重新啟動 Vortex 以修正這個問題。",
+  "The mods displayed in this page are valid mods, confirmed to be deployed inside the game's mods folder. If a mod is missing, try deploying your mods - if it's still missing - it's not a valid mod!": "這個頁面顯示的都是有效的 mods，已確認部署在遊戲的 mods 資料夾內。如果少了某個 mod，請嘗試部署你的 mods－如果還是沒有－那它就不是有效的 mod！",
+  "As part of implementing the Load Order system for Blade and Sorcery 8.4, we were forced to change the way we install BaS mods (again). Vortex has just attempted to migrate your existing mods to the new file structure but failed. These will have to be re-installed manually in order to function properly. The mods that require re-installation are:\n\n{{modIds}}": "為了實作 Blade and Sorcery 8.4 的載入順序系統，我們不得不（再次）改變安裝 BaS mods 的方式。Vortex 剛才嘗試把你現有的 mods 遷移到新的檔案結構但失敗了。這些 mods 必須手動重新安裝才能正常運作。需要重新安裝的 mods 有：\n\n{{modIds}}"
+}

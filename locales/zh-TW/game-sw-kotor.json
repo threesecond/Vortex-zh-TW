@@ -1,0 +1,5 @@
+{
+  "Invalid Mod": "無效的 Mod",
+  "The mod you're installing is meant to be installed/run with the TSLPatcher tool - Vortex cannot install this mod": "你正在安裝的 mod 必須用 TSLPatcher 工具安裝或執行－Vortex 無法安裝這個 mod",
+  "Vortex cannot install TSLPatcher as a mod - this is a separate utility application which should be installed and used separately.": "Vortex 無法把 TSLPatcher 當成 mod 安裝－它是獨立的公用程式，應該另外安裝並使用。"
+}

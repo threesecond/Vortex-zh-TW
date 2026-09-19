@@ -1,0 +1,19 @@
+{
+  "{{name}} Update": "{{name}} 更新",
+  "BepInEx Support": "BepInEx 支援",
+  "BepInEx Required": "需要 BepInEx",
+  "Download BepInEx": "下載 BepInEx",
+  "Update for {{name}}": "{{name}} 的更新",
+  "Failed to update BepInEx": "更新 BepInEx 失敗",
+  "Unable to update BepInEx": "無法更新 BepInEx",
+  "Bepis Injector Extensible": "Bepis Injector Extensible",
+  "Failed to install BepInEx": "安裝 BepInEx 失敗",
+  "Failed to download/install BepInEx": "下載或安裝 BepInEx 失敗",
+  "The {{game}} extension uses BepInEx": "{{game}} 擴充套件使用 BepInEx",
+  "Failed to download BepInEx dependency": "下載 BepInEx 相依項目失敗",
+  "Unable to download/install BepInEx - do it manually": "無法下載或安裝 BepInEx－請手動處理",
+  "Vortex has detected a newer version of {{name}} ({{latest}}) available to download from {{website}}. You currently have version {{current}} installed.\nVortex can download and attempt to install the new update for you.": "Vortex 偵測到 {{website}} 上有較新版本的 {{name}}（{{latest}}）可供下載。你目前安裝的是 {{current}} 版。\nVortex 可以替你下載並嘗試安裝這個更新。",
+  "The \"{{game}}\" game extension requires a widely used 3rd party assembly patching/injection library called Bepis Injector Extensible (BepInEx).{{bl}}Vortex has downloaded and installed this library automatically for you, and is currently available in your mods page to enable/disable just like any other regular mod. Depending on the modding pattern of \"{{game}}\", BepInEx may be a hard requirement for mods to function in-game in which case you MUST have the library enabled and deployed at all times for the mods to work!{{bl}}To remove the library, simply disable the mod entry for BepInEx.": "「{{game}}」遊戲擴充套件需要一個廣泛使用的第三方組件修補／注入函式庫，叫做 Bepis Injector Extensible（BepInEx）。{{bl}}Vortex 已自動替你下載並安裝這個函式庫，它現在出現在你的 mods 頁面，可以像其他一般 mod 一樣啟用或停用。視「{{game}}」的模組模式而定，BepInEx 可能是 mods 在遊戲內運作的硬性需求，這種情況下你「必須」隨時保持這個函式庫為啟用並已部署，mods 才能運作！{{bl}}要移除這個函式庫，只要停用 BepInEx 的 mod 項目即可。",
+  "The {{game}} game extension requires a widely used 3rd party assembly patching/injection library called Bepis Injector Extensible (BepInEx).{{bl}}Vortex can walk you through the download/installation process; once complete, BepInEx will be available in your mods page to enable/disable just like any other regular mod. Depending on the modding pattern of {{game}}, BepInEx may be a hard requirement for mods to function in-game, in which case you MUST have the library enabled and deployed at all times for the mods to work!{{bl}}To remove the library, simply disable the mod entry for BepInEx.": "{{game}} 遊戲擴充套件需要一個廣泛使用的第三方組件修補／注入函式庫，叫做 Bepis Injector Extensible（BepInEx）。{{bl}}Vortex 可以引導你完成下載／安裝流程；完成後，BepInEx 會出現在你的 mods 頁面，可以像其他一般 mod 一樣啟用或停用。視 {{game}} 的模組模式而定，BepInEx 可能是 mods 在遊戲內運作的硬性需求，這種情況下你「必須」隨時保持這個函式庫為啟用並已部署，mods 才能運作！{{bl}}要移除這個函式庫，只要停用 BepInEx 的 mod 項目即可。",
+  "The \"{{game}}\" game extension requires a widely used 3rd party assembly patching/injection library called Bepis Injector Extensible (BepInEx).{{bl}}BepInEx may be a hard requirement for some mods to function in-game in which case you should manually download and install the latest {{bixUrl}} in order for the mods to work!{{bl}}Choose the \"BepInEx_x64_...zip\" variant - you can then drag and drop it inside the mods page's \"Drop area\" to have Vortex install it as any other mod.{{bl}}If you installed the BepInEx package through Vortex, don't forget to enable it and click \"Deploy Mods\", for the package to be linked to your game's directory.": "「{{game}}」遊戲擴充套件需要一個廣泛使用的第三方組件修補／注入函式庫，叫做 Bepis Injector Extensible（BepInEx）。{{bl}}BepInEx 可能是某些 mods 在遊戲內運作的硬性需求，這種情況下你應該手動下載並安裝最新的 {{bixUrl}}，mods 才能運作！{{bl}}請選擇「BepInEx_x64_...zip」變體－然後把它拖放到 mods 頁面的「拖放區」，Vortex 就會像安裝其他 mod 一樣安裝它。{{bl}}如果你是透過 Vortex 安裝 BepInEx 套件，別忘了啟用它並按「部署 Mods」，套件才會連結到你的遊戲目錄。"
+}

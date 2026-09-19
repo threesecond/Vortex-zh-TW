@@ -1,0 +1,14 @@
+{
+  "SMAPI Log": "SMAPI 記錄檔",
+  "No information": "沒有資訊",
+  "Copy & Share log": "複製並分享記錄檔",
+  "SMAPI update required": "需要更新 SMAPI",
+  "Mod Configuration Sync": "Mod 設定同步",
+  "Sync Mod Configurations": "同步 Mod 設定",
+  "SMAPI suggests updating this mod to {{update}}. Please use Vortex to check for mod updates": "SMAPI 建議將這個 mod 更新到 {{update}}。請使用 Vortex 檢查 mod 更新",
+  "Some Stardew Valley mods require a newer version of SMAPI to function correctly, you should check for SMAPI updates in the mods page.": "有些 Stardew Valley mods 需要較新版本的 SMAPI 才能正常運作，你應該到 mods 頁面檢查 SMAPI 更新。",
+  "If checked, when you install a mod for Stardew Valley you may get suggestions for installing further mods, required or recommended by it.This information could be wrong or incomplete so please carefully consider before accepting them.": "勾選後，當你為 Stardew Valley 安裝 mod 時，可能會收到安裝其他 mods 的建議，也就是它需要或推薦的 mods。這些資訊可能有誤或不完整，接受之前請仔細考慮。",
+  "Your SMAPI log is displayed below. To share it, click \"Copy & Share\" which will copy it to your clipboard and open the SMAPI log sharing website. Next, paste your code into the text box and press \"save & parse log\". You can now share a link to this page with others so they can see your log file.\n\n": "你的 SMAPI 記錄檔顯示在下方。要分享它，請按「複製並分享」，這會把它複製到剪貼簿並開啟 SMAPI 記錄檔分享網站。接著把內容貼進文字框並按「save & parse log」。現在你可以把該頁面的連結分享給其他人，讓他們看到你的記錄檔。\n\n",
+  "Many Stardew Valley mods generate their own configuration files during game play. By default the generated files are, ingested by their respective mods.[br][/br][br][/br]Unfortunately the mod configuration files are lost when updating or removing a mod.[br][/br][br][/br] This button allows you to Import all of your active mod's configuration files into a single mod which will remain unaffected by mod updates.[br][/br][br][/br]Would you like to enable this functionality? (SMAPI must be installed)": "許多 Stardew Valley mods 會在遊戲過程中產生自己的設定檔案。預設情況下，產生的檔案會被各自的 mod 收納。[br][/br][br][/br]遺憾的是，更新或移除 mod 時這些 mod 設定檔案會遺失。[br][/br][br][/br] 這個按鈕讓你把所有使用中 mods 的設定檔案匯入到單一個 mod 裡，該 mod 不受 mod 更新影響。[br][/br][br][/br]要啟用這項功能嗎？（必須已安裝 SMAPI）",
+  "Vortex by default is configured to attempt to pull-in newly created files (mod configuration json files for example) created externally (by the game itself or tools) into their respective mod folders.\n\nUnfortunately the configuration files are lost during mod updates when using this method.\n\nToggling this functionality creates a separate mod configuration \"override\" folder where all of your mod configuration files will be stored. This allows you to manage your mod configuration files on their own, regardless of mod updates. ": "Vortex 預設會嘗試把外部（遊戲本身或工具）新建立的檔案（例如 mod 設定 json 檔案）拉進各自的 mod 資料夾。\n\n遺憾的是，用這種方式時設定檔案會在 mod 更新時遺失。\n\n切換這項功能會建立一個獨立的 mod 設定「覆蓋」資料夾，所有 mod 設定檔案都會存放在那裡。這讓你可以獨立管理 mod 設定檔案，不受 mod 更新影響。"
+}

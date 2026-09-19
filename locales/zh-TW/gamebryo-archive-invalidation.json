@@ -1,0 +1,5 @@
+{
+  "Failed to read bsa/ba2 files.": "讀取 bsa／ba2 檔案失敗。",
+  "Failed to add invalidation mod": "加入 invalidation mod 失敗",
+  "The extension providing BSA support has been disabled or removed. Without it, Vortex can't provide BSA redirection.": "提供 BSA 支援的擴充套件已被停用或移除。少了它，Vortex 無法提供 BSA 重新導向。"
+}

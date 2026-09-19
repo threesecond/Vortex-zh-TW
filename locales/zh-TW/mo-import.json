@@ -1,0 +1,16 @@
+{
+  "Setup": "設定",
+  "Start": "開始",
+  "Finish": "完成",
+  "Import": "匯入",
+  "Review": "檢閱",
+  "Introduction": "簡介",
+  "Start Import": "開始匯入",
+  "Import result": "匯入結果",
+  "Magic happens": "施展魔法中",
+  "MO2 Instances": "MO2 執行個體",
+  "Import From MO": "從 MO 匯入",
+  "Select Mods to import": "選擇要匯入的 Mods",
+  "Failed to start import process": "開始匯入程序失敗",
+  "No global instances for this this game": "這款遊戲沒有全域執行個體"
+}

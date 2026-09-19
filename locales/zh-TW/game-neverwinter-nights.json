@@ -1,0 +1,6 @@
+{
+  "Multiple mod paths": "多個 mod 路徑",
+  "Go to Documents Folder": "前往文件資料夾",
+  "Multiple mod paths detected": "偵測到多個 mod 路徑",
+  "Vortex has detected multiple \"viable\" Neverwinter Nights mod paths on your system:\n\n{{modPaths}}\n\nPlease note that Vortex will only deploy mods to the following mod path:\n\n\"{{modsPath}}\"\n\nWe recommend you rename/remove the other mod paths to ensure the game uses the same one that Vortex uses or your mods might not show correctly inside your game.": "Vortex 在你的系統上偵測到多個「可用」的 Neverwinter Nights mod 路徑：\n\n{{modPaths}}\n\n請注意，Vortex 只會把 mods 部署到以下 mod 路徑：\n\n「{{modsPath}}」\n\n我們建議你重新命名或移除其他 mod 路徑，以確保遊戲使用的路徑與 Vortex 相同，否則你的 mods 可能無法在遊戲內正確顯示。"
+}

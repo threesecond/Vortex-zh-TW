@@ -1,0 +1,17 @@
+{
+  "FNIS outdated": "FNIS 已過時",
+  "Configure FNIS": "設定 FNIS",
+  "Failed to run FNIS": "執行 FNIS 失敗",
+  "FNIS not installed": "尚未安裝 FNIS",
+  "Running FNIS automatically": "正在自動執行 FNIS",
+  "Updating animations (FNIS)": "正在更新動畫（FNIS）",
+  "Select patches for this profile": "為這個設定檔選擇修補",
+  "Failed to calculate FNIS checksum": "計算 FNIS 總和檢查碼失敗",
+  "Failed to read list of available patches": "讀取可用修補清單失敗",
+  "Run FNIS on Deployment Event (if necessary)": "在部署事件時執行 FNIS（必要時）",
+  "An unknown error occurred starting FNIS. This is usually caused by a broken installation or the tool being set up incorrectly.": "啟動 FNIS 時發生未知錯誤。這通常是安裝損壞或工具設定不正確造成的。",
+  "Please select the patches to activate in FNIS (when run automatically!).\nOnly select patches you have the corresponding mod for!\nThis list is stored separately for each profile.": "請選擇要在 FNIS 中啟用的修補（自動執行時！）。\n只選擇你有對應 mod 的修補！\n這份清單會為每個設定檔分別儲存。",
+  "You have configured Vortex to run FNIS automatically but the installed version of FNIS is too old and doesn't support being embedded. Please download and install at least version 7.4 from [url]{{url}}[/url].": "你已設定 Vortex 自動執行 FNIS，但已安裝的 FNIS 版本太舊，不支援嵌入執行。請從 [url]{{url}}[/url] 下載並安裝至少 7.4 版。",
+  "You have configured Vortex to run FNIS automatically but it's not installed for this game. For the automation to work, FNIS has to be installed and configured for the current game. You can download it from [url]{{url}}[/url].": "你已設定 Vortex 自動執行 FNIS，但這款遊戲尚未安裝它。要讓自動化運作，FNIS 必須為目前的遊戲安裝並設定好。你可以從 [url]{{url}}[/url] 下載。",
+  "Any time you deploy, Vortex will check if any mod containing animations has changed. If so, it will run FNIS and create or update a mod named \"FNIS Data\". This mod contains the animations generated for your system based on your mod loadout and it is supposed to load after all mods containing animations. This should get set up automatically.\n\nImportant: If FNIS produces an error message it will still open a window and the deployment will be paused until you close FNIS.": "每次部署時，Vortex 會檢查是否有含動畫的 mod 發生變更。如果有，它會執行 FNIS 並建立或更新一個名為「FNIS Data」的 mod。這個 mod 包含依你的 mod 配置為你的系統產生的動畫，它應該在所有含動畫的 mods 之後載入。這應該會自動設定好。\n\n重要：如果 FNIS 產生錯誤訊息，它仍會開啟一個視窗，部署會暫停直到你關閉 FNIS。"
+}

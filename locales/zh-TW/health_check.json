@@ -1,0 +1,178 @@
+{
+  "actions": {
+    "install_all": "一鍵安裝全部（{{count}}）"
+  },
+  "listing": {
+    "title": "健康檢查",
+    "subtitle": "檢查你的模組配置是否有問題，並瞭解需要時該如何解決。",
+    "last_updated": "最後更新：{{time}}",
+    "item": {
+      "title": "可能需要額外的 mod：{{modName}}",
+      "description": "缺少 mod：{{dependencyModName}}",
+      "requires_mods": "需要 {{ count }} 個 mod",
+      "requires_mods_0": "需要 {{ count }} 個 mod",
+      "requires_mods_plural": "需要 {{ count }} 個 mod",
+      "may_require_mods": "可能需要 {{ count }} 個 mod",
+      "may_require_mods_0": "可能需要 {{ count }} 個 mod",
+      "may_require_mods_plural": "可能需要 {{ count }} 個 mod",
+      "more_count": "+{{ count }} 個",
+      "more_count_0": "+{{ count }} 個",
+      "requires_files": "需要 {{ count }} 個檔案",
+      "requires_files_0": "需要 {{ count }} 個檔案",
+      "requires_files_plural": "需要 {{ count }} 個檔案",
+      "missing_for": "缺少必要的 mod：{{modName}}",
+      "missing_for_0": "缺少必要的 mod：{{modName}}",
+      "missing_for_plural": "缺少必要的 mod：{{modName}}",
+      "requires_count": "需要 {{ count }} 個 mod：",
+      "requires_count_0": "需要 {{ count }} 個 mod：",
+      "requires_count_plural": "需要 {{ count }} 個 mod：",
+      "requires_pick": "需要挑選 {{ count }} 個 mod：",
+      "requires_pick_0": "需要挑選 {{ count }} 個 mod：",
+      "requires_pick_plural": "需要挑選 {{ count }} 個 mod：",
+      "or_join": "或"
+    },
+    "no_results_active": {
+      "title": "健康檢查通過",
+      "message": "可以開始遊戲了"
+    },
+    "no_results_hidden": {
+      "title": "沒有隱藏的項目"
+    },
+    "install_one_click": "一鍵安裝（{{count}}）",
+    "install_uninstalled": "安裝（已下載）",
+    "pick_mod_install": "挑選要安裝的 mod",
+    "premium_banner": {
+      "description": "一鍵下載必要項目，不必造訪頁面也不用等待。<premiumLink>升級進階會員</premiumLink>"
+    },
+    "no_results_logged_out": {
+      "title": "還有其他檢查可用",
+      "message": "健康檢查在它能執行的檢查中沒有發現問題。登入後還能檢查是否缺少 Nexus Mods 的需求項目。",
+      "action": "登入以完成健康檢查"
+    },
+    "external_mod_install": "外部 mod 安裝"
+  },
+  "detail": {
+    "title": {
+      "suggestion": "建議",
+      "warning": "警告",
+      "error": "錯誤"
+    },
+    "subtitle": {
+      "suggestion": "可以改善你模組配置的變更。",
+      "warning": "可能導致部分模組配置無法運作的問題。",
+      "error": "會導致遊戲無法運作的問題。請在遊玩前修正。"
+    },
+    "was_this_helpful": {
+      "suggestion": "這則建議對你有幫助嗎？",
+      "warning": "這則警告對你有幫助嗎？",
+      "error": "這則錯誤訊息對你有幫助嗎？"
+    },
+    "item": {
+      "title": "可能需要額外的 mod：{{modName}}",
+      "description": "詳情請參閱 <modLink>{{modName}} 的說明</modLink>。",
+      "check_the_description": "安裝前請先閱讀說明。",
+      "author_note": "備註：{{note}}",
+      "open_external_mod_page": "開啟外部 mod 頁面",
+      "after_installing": "安裝完成後請點選「確認安裝」。在 Vortex 外部進行的 mod 安裝無法自動偵測。",
+      "confirm_install": "確認安裝",
+      "missing_for": "缺少必要的 mod：<modLink>{{modName}}</modLink>",
+      "missing_for_0": "缺少必要的 mod：<modLink>{{modName}}</modLink>",
+      "missing_for_plural": "缺少必要的 mod：<modLink>{{modName}}</modLink>",
+      "requires_files": "需要安裝 {{ count }} 個 mod 檔案才能正常運作。",
+      "requires_files_0": "需要安裝 {{ count }} 個 mod 檔案才能正常運作。",
+      "requires_files_plural": "需要安裝 {{ count }} 個 mod 檔案才能正常運作。",
+      "install_via_mod_page": "透過 mod 頁面安裝",
+      "install_one_click": "一鍵安裝",
+      "pick_one": "請從中挑選一個",
+      "wrong_version_installed": "需要已安裝檔案的另一個版本。同一時間只能啟用一個版本。",
+      "installed_version": "目前安裝的版本：",
+      "required_version": "需要的版本：",
+      "wrong_version_enabled": "正確的版本已安裝，但目前啟用的是另一個版本。同一時間只能啟用一個版本。",
+      "enabled_version": "目前啟用的版本：",
+      "correct_version": "正確的版本：",
+      "view_in_loadout": "在模組配置中檢視",
+      "view_in_mods": "在 Mods 中檢視",
+      "switch_version": "切換版本",
+      "enable_this_version": "啟用這個版本",
+      "correct_version_downloaded": "需要的版本已下載，但尚未安裝。",
+      "install_uninstalled": "安裝（已下載）",
+      "may_require_file": "可能需要安裝這個額外的 mod 檔案才能正常運作：",
+      "mod_page_source_note": "這項需求是從 mod 頁面辨識出來的，而非來自檔案層級的需求系統，所以對你的特定配置可能不是必要的。<modLink>檢視 mod 頁面以取得完整細節</modLink>。",
+      "external_hosted_note": "這個 mod 託管在 Nexus Mods 之外。安裝前請先查看說明。",
+      "downloading": "正在下載…",
+      "installing": "正在安裝…",
+      "install_required": "需要安裝",
+      "different_version_required": "需要安裝另一個版本",
+      "current_version": "目前版本",
+      "enable_required": "啟用需要的版本",
+      "adult": "成人",
+      "installed": "已安裝",
+      "enabled": "已啟用",
+      "disabled": "已停用"
+    },
+    "feedback_modal": {
+      "title": "感謝你的回報",
+      "description": "請告訴我們哪裡有問題，協助我們改進這則訊息。",
+      "options": {
+        "incorrect_requirement": "需求判斷錯誤",
+        "requirement_already_installed": "需求項目已經安裝了",
+        "explanation_was_unclear": "說明不夠清楚",
+        "other": "其他"
+      },
+      "buttons": {
+        "cancel": "略過",
+        "confirm": "傳送意見回饋"
+      }
+    }
+  },
+  "settings": {
+    "title": "健康檢查（Beta）",
+    "description": "偵測你的 mod 清單問題並提供修正建議。更多檢查項目即將推出。",
+    "mod_requirements": "缺少 mod 需求時提出建議",
+    "file_requirements": "缺少檔案需求時提出警告"
+  },
+  "premium": {
+    "modal": {
+      "title": {
+        "single": "跳過網站，立即安裝。",
+        "all": "跳過網站，立即安裝所有必要項目。"
+      },
+      "description": {
+        "single": "App 內一鍵安裝是進階會員功能。\n\n免費使用者透過網站的 mod 頁面下載，頁面上的廣告是平台營運的來源。",
+        "all": "App 內一鍵安裝是進階會員功能。\n\n免費使用者透過網站的 mod 頁面下載，頁面上的廣告是平台營運的來源。"
+      },
+      "benefits_title": "升級進階會員可獲得：",
+      "benefits": {
+        "downloads": "App 內一鍵下載與 mod 更新",
+        "collections": "一鍵安裝合集",
+        "speed": "不限速下載",
+        "ad_free": "終身免廣告，即使日後取消訂閱也一樣"
+      },
+      "buttons": {
+        "primary": "解鎖一鍵安裝",
+        "secondary": {
+          "single": "前往 mod 頁面（免費）",
+          "all": "返回並開啟 mod 頁面"
+        }
+      }
+    }
+  },
+  "divider": {
+    "and": "且",
+    "or": "或"
+  },
+  "shared": {
+    "requires_files": "需要安裝 {{ count }} 個額外的 mod 檔案才能正常運作：",
+    "requires_files_0": "需要安裝 {{ count }} 個額外的 mod 檔案才能正常運作：",
+    "requires_files_plural": "需要安裝 {{ count }} 個額外的 mod 檔案才能正常運作：",
+    "requires_pick": "需要挑選 {{ count }} 個額外的 mod 檔案才能正常運作：",
+    "requires_pick_0": "需要挑選 {{ count }} 個額外的 mod 檔案才能正常運作：",
+    "requires_pick_plural": "需要挑選 {{ count }} 個額外的 mod 檔案才能正常運作：",
+    "wrong_version_installed": "需要安裝這個現有 mod 檔案的另一個版本才能正常運作：",
+    "wrong_version_installed_plural": "需要安裝 {{ count }} 個現有 mod 檔案的另一個版本才能正常運作：",
+    "wrong_version_enabled": "需要啟用這個已安裝 mod 檔案的另一個版本才能正常運作：",
+    "wrong_version_enabled_plural": "需要啟用 {{ count }} 個已安裝 mod 檔案的另一個版本才能正常運作：",
+    "correct_version_uninstalled": "需要安裝這個先前已下載的 mod 檔案才能正常運作：",
+    "correct_version_uninstalled_plural": "需要安裝 {{ count }} 個先前已下載的 mod 檔案才能正常運作："
+  }
+}

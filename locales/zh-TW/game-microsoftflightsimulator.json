@@ -1,0 +1,6 @@
+{
+  "Pick target": "選擇目標",
+  "failed to update layout.json of merge mod": "更新合併 mod 的 layout.json 失敗",
+  "If you have multiple mods replacing the same content (e.g. engine settings for a plane, in contrast to stuff like liveries that you can select in-game) only the one loaded last here will take effect.": "如果你有多個 mods 取代同一內容（例如某架飛機的引擎設定，而不是塗裝這類可以在遊戲內選擇的東西），只有這裡最後載入的那一個會生效。",
+  "The way this mod is structured it looks like it's intended to replace official content but we can't automatically determine which. Please pick from the possible options below to complete the installation.": "從這個 mod 的結構看來，它似乎是要取代官方內容，但我們無法自動判定是哪一個。請從下方可能的選項中選擇，以完成安裝。"
+}

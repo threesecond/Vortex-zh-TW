@@ -1,0 +1,8 @@
+{
+  "QBMS Support": "QBMS 支援",
+  "Deprecated QB API": "已淘汰的 QB API",
+  "QBMS operation completed": "QBMS 操作已完成",
+  "failed to execute qbms operation": "執行 QBMS 操作失敗",
+  "Game extension is using deprecated QBMS API calls": "遊戲擴充套件正在使用已淘汰的 QBMS API 呼叫",
+  "This extension is using deprecated QBMS API calls which will eventually be removed - please inform the extension developer to update it ASAP!": "這個擴充套件正在使用已淘汰、最終會被移除的 QBMS API 呼叫－請通知擴充套件的開發者盡快更新！"
+}

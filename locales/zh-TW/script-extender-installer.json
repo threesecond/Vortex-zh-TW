@@ -1,0 +1,21 @@
+{
+  "Open in Vortex": "在 Vortex 中開啟",
+  "{{name}} Update": "{{name}} 更新",
+  "Open in browser": "在瀏覽器中開啟",
+  "{{name}} not found": "找不到 {{name}}",
+  "Script Extender Update": "Script Extender 更新",
+  "Error browsing for download": "瀏覽下載時發生錯誤",
+  "Select script extender version": "選擇 script extender 版本",
+  "Unable to update script extender": "無法更新 script extender",
+  "Failed to install script extender": "安裝 script extender 失敗",
+  "Script Extender Mismatch - {{file}}": "Script Extender 不符－{{file}}",
+  "Unable to download/install script extender": "無法下載或安裝 script extender",
+  "Can't see the right version? Visit the mod page.": "看不到正確的版本？請前往 mod 頁面。",
+  "Looks like you selected the wrong file. Please try again.": "你選的檔案似乎不對。請再試一次。",
+  "To install {{name}}, download the latest 7z archive for {{gameName}}.": "要安裝 {{name}}，請下載 {{gameName}} 適用的最新 7z 壓縮檔。",
+  "Your primary tool/starter for this game is a Script Extender, but it appears to be misconfigured. ": "你這款遊戲的主要工具／啟動器是 Script Extender，但它似乎設定有誤。",
+  "Vortex could not automatically determine the correct version of {{name}} for your game. \n\nYou have {{title}} version {{version}} installed from {{store}}.\n\nPlease select the file you wish to download below.": "Vortex 無法自動判定你的遊戲適用的 {{name}} 正確版本。\n\n你安裝的是來自 {{store}} 的 {{title}} {{version}} 版。\n\n請在下方選擇你要下載的檔案。",
+  "Vortex has detected a newer version of {{name}} ({{latest}}) available to download from {{website}}. You currently have version {{current}} installed.\nVortex can download and attempt to install the new update for you.\n\nIf you ignore this message, Vortex will not remind you again until you restart it.": "Vortex 偵測到 {{website}} 上有較新版本的 {{name}}（{{latest}}）可供下載。你目前安裝的是 {{current}} 版。\nVortex 可以替你下載並嘗試安裝這個更新。\n\n如果你忽略這則訊息，Vortex 在重新啟動前不會再提醒你。",
+  "Vortex could not detect {{name}}. This means it is either not installed or installed incorrectly.\n\nFor the best modding experience, we recommend installing the script extender by visiting {{website}}, Vortex can open the download page using the options below.\n\nIf you ignore this notice, Vortex will not remind you again until it is restarted.": "Vortex 偵測不到 {{name}}。這表示它尚未安裝，或安裝不正確。\n\n為了獲得最佳的模組體驗，我們建議前往 {{website}} 安裝 script extender，Vortex 可以透過下方的選項開啟下載頁面。\n\n如果你忽略這則通知，Vortex 在重新啟動前不會再提醒你。",
+  "Vortex has detected a newer version of {{name}} ({{latest}}) available to download from {{website}}. You currently have version {{current}} installed.\nThe buttons below will open the script extender download page where you can download it directly into Vortex or through your browser. Please ensure you select the correct build for your game version. \n\nIf you ignore this message, Vortex will not remind you again until you restart it.": "Vortex 偵測到 {{website}} 上有較新版本的 {{name}}（{{latest}}）可供下載。你目前安裝的是 {{current}} 版。\n下方的按鈕會開啟 script extender 的下載頁面，你可以直接下載到 Vortex 或透過瀏覽器下載。請確認選擇符合你遊戲版本的建置。\n\n如果你忽略這則訊息，Vortex 在重新啟動前不會再提醒你。"
+}

@@ -1,0 +1,13 @@
+{
+  "Next": "下一步",
+  "Finish": "完成",
+  "Checking": "正在檢查",
+  "Don't Import": "不要匯入",
+  "Start Import": "開始匯入",
+  "Import From NMM": "從 NMM 匯入",
+  "Unable to start import process": "無法開始匯入程序",
+  "Failed to initialize trace log for NMM import": "初始化 NMM 匯入的追蹤記錄失敗",
+  "{{rootPath}} - Size required: {{required}} / {{available}}": "{{rootPath}} － 需要空間：{{required}} / {{available}}",
+  "\"{{permFile}}\" is access protected. Please ensure your account has full read/write permissions to your game's NMM mods folder and try again.": "\"{{permFile}}\" 受到存取保護。請確認你的帳戶對遊戲的 NMM mods 資料夾有完整的讀寫權限，然後再試一次。",
+  "Vortex is unable to read/open one or more of your archives - please ensure you have full permissions to those files, and that NMM is not running in the background before trying again. Additionally, now would be a good time to add an exception for Vortex to your Anti-Virus software (if you have one)": "Vortex 無法讀取或開啟你的一個或多個壓縮檔－請確認你對這些檔案有完整權限，且 NMM 沒有在背景執行，然後再試一次。另外，現在也是把 Vortex 加進防毒軟體例外清單的好時機（如果你有裝的話）"
+}

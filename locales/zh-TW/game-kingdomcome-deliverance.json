@@ -1,0 +1,8 @@
+{
+  "Failed to write to load order file": "寫入載入順序檔案失敗",
+  "Failed to re-instate manually added mods": "恢復手動加入的 mods 失敗",
+  "failed to read kingdom come mods directory": "讀取 Kingdom Come 的 mods 目錄失敗",
+  "Below is a preview of the load order for the mods that are included in the current collection. If you wish to modify the load please do so by opening the Load Order page; any changes made there will be reflected in this collection.": "下方是目前合集所含 mods 的載入順序預覽。如果你想修改載入順序，請開啟「載入順序」頁面進行；在那裡所做的任何變更都會反映到這個合集。",
+  "Note: Vortex will detect manually added mods as long as these have been added to the mod_order.txt file. Manually added mods are not managed by Vortex - to remove these, you will have to manually erase the entry from the mod_order.txt file.": "注意：只要手動加入的 mods 已加進 mod_order.txt 檔案，Vortex 就會偵測到它們。手動加入的 mods 不受 Vortex 管理－要移除它們，你必須手動從 mod_order.txt 檔案中刪除該項目。",
+  "Drag and drop the mods on the left to reorder them. Kingdom Come: Deliverance uses a mod_order.txt file to define the order in which mods are loaded, Vortex will write the folder names of the displayed mods in the order you have set. Mods placed at the bottom of the load order will have priority over those above them.": "拖放左側的 mods 來重新排序。Kingdom Come: Deliverance 用 mod_order.txt 檔案定義 mods 的載入順序，Vortex 會依你設定的順序寫入所顯示 mods 的資料夾名稱。放在載入順序底部的 mods 優先於上方的 mods。"
+}

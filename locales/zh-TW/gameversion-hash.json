@@ -1,0 +1,15 @@
+{
+  "GameId": "遊戲 ID",
+  "Hash Value": "雜湊值",
+  "Generate Hash Entry": "產生雜湊項目",
+  "User Facing Version": "顯示給使用者的版本",
+  "Variant (game store)": "變體（遊戲平台）",
+  "Generating hash entry": "正在產生雜湊項目",
+  "Enter Hash Entry Values": "輸入雜湊項目的值",
+  "Failed to generate hash": "產生雜湊失敗",
+  "Insert below information": "填入以下資訊",
+  "Failed to save hash entry": "儲存雜湊項目失敗",
+  "Generate Hash Entry (Quick)": "產生雜湊項目（快速）",
+  "details.hashFiles is undefined": "details.hashFiles 未定義",
+  "Game extension is not configured correctly": "遊戲擴充套件設定不正確"
+}

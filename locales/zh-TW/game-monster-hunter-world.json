@@ -1,0 +1,8 @@
+{
+  "Action required": "需要採取動作",
+  "Download ReShade": "下載 ReShade",
+  "Go to Stracker's Loader mod page": "前往 Stracker's Loader 的 mod 頁面",
+  "\"Stracker's Loader\" not installed/configured": "「Stracker's Loader」未安裝或未設定",
+  "Monster Hunter: World requires \"Stracker's Loader\" for most mods to install and function correctly.\nVortex is able to install Stracker's Loader automatically (as a mod) but please ensure it is enabled\nand deployed at all times.": "Monster Hunter: World 的大多數 mods 需要「Stracker's Loader」才能正確安裝並運作。\nVortex 可以自動安裝 Stracker's Loader（作為一個 mod），但請確保它隨時\n保持啟用並已部署。",
+  "You're attempting to install what appears to be a ReShade mod, but Vortex is unable to confirm whether\n ReShade is installed. \n\nThe mod will still be installed, but please keep in mind that this mod will not function without ReShade.": "你正嘗試安裝的似乎是 ReShade mod，但 Vortex 無法確認\n ReShade 是否已安裝。\n\n這個 mod 仍會被安裝，但請記住，沒有 ReShade 這個 mod 無法運作。"
+}

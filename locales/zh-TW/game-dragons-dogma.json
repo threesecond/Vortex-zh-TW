@@ -1,0 +1,7 @@
+{
+  "Invalid archive": "無效的壓縮檔",
+  "Please note: Vortex had attempted to automatically migrate your mods to the new mod format and has failed - you MUST re-install all your mods.\n\n": "請注意：Vortex 曾嘗試自動把你的 mods 遷移到新的 mod 格式但失敗了－你「必須」重新安裝所有 mods。\n\n",
+  "The archive \"{{archiveName}}\" does not fit the expected packaging pattern for this game, and probably will not install correctly. Are you sure you want to proceed?": "壓縮檔「{{archiveName}}」不符合這款遊戲預期的打包模式，很可能無法正確安裝。你確定要繼續嗎？",
+  "Please note: if you are happy with your current mod setup, and have not noticed any issues, it is perfectly possible that you are not affected and shouldn't feel forced to re-install, but should keep an eye out for weird behaviour.\n\n": "請注意：如果你對目前的 mod 配置很滿意，也沒有發現任何問題，那你很可能沒有受到影響，不必勉強重新安裝，但請留意是否有奇怪的行為。\n\n",
+  "It was raised to our attention that certain DDDA mods are not being installed correctly through Vortex. This due to an error in our installer's logic which ignored all mod files positioned outside the \"../nativePC/rom/\" directory.\n\nThis unfortunately means that the mods installed within the staging folder could potentially be missing files - these mods will not function correctly unless they are re-installed.\n\n{{pleasenote}}We are sorry for the inconvenience.": "我們注意到某些 DDDA mods 無法透過 Vortex 正確安裝。這是因為我們的安裝程式邏輯有誤，忽略了所有位於「../nativePC/rom/」目錄之外的 mod 檔案。\n\n遺憾的是，這表示暫存資料夾裡已安裝的 mods 可能缺少檔案－這些 mods 除非重新安裝，否則無法正常運作。\n\n{{pleasenote}}很抱歉造成你的不便。"
+}

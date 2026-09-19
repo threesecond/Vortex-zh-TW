@@ -1,0 +1,7 @@
+{
+  "<manually installed>": "<手動安裝>",
+  "Script extender plugin errors": "Script extender 插件錯誤",
+  "Script extender plugin errors detected": "偵測到 script extender 插件錯誤",
+  "[url={{logPathURI}}]{{logPath}}[/url] {{pathSep}} [url={{logURI}}]{{logName}}[/url]<br/>": "[url={{logPathURI}}]{{logPath}}[/url] {{pathSep}} [url={{logURI}}]{{logName}}[/url]<br/>",
+  "Last time you ran the game or Creation kit, one or more script extender plugins failed to load; this is according to:<br/>{{errorInformation}}This normally happens when you try to load mods which are not compatible with the installed version of the script extender.<br/>To fix this problem you can check for an update on the mod page of the failed plugin or disable the mod until it is updated.<br/><br/>Error(s) reported:<br/>": "上次你執行遊戲或 Creation Kit 時，有一個或多個 script extender 插件載入失敗；依據來源：<br/>{{errorInformation}}這通常發生在你嘗試載入與已安裝的 script extender 版本不相容的 mods 時。<br/>要修正這個問題，你可以到載入失敗插件的 mod 頁面檢查是否有更新，或先停用該 mod 直到它更新為止。<br/><br/>回報的錯誤：<br/>"
+}

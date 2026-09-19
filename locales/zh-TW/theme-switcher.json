@@ -1,0 +1,23 @@
+{
+  "OK": "確定",
+  "Apply": "套用",
+  "Revert": "還原",
+  "Margins:": "邊界：",
+  "Dark Theme": "深色主題",
+  "Font Size:": "字型大小：",
+  "Font Family:": "字型：",
+  "System Fonts": "系統字型",
+  "Dashlet Height": "儀表板元件高度",
+  "Titlebar Rows:": "標題列行數：",
+  "Dashlet Height:": "儀表板元件高度：",
+  "No handler found": "找不到處理程式",
+  "Read system fonts": "讀取系統字型",
+  "Name already used.": "名稱已被使用。",
+  "Edit CSS manually...": "手動編輯 CSS…",
+  "Font Family (Headings):": "字型（標題）：",
+  "The quick brown fox jumps over the lazy dog": "敏捷的棕色狐狸跳過懶惰的狗",
+  "When this is enabled, grays are essentially inverted, so a light gray becomes a dark gray and vice versa.\nIf your theme is mostly light foreground colors on dark background, this will produce better contrast.": "啟用後，灰色基本上會反轉，淺灰變深灰、深灰變淺灰。\n如果你的主題主要是深色背景搭配淺色前景，這會產生更好的對比。",
+  "You don't have an editor associated with scss files. You can fix this by opening the following file from your file explorer, pick your favorite text editor and when prompted, choose to always open that file type with that editor.": "你沒有設定與 scss 檔案關聯的編輯器。你可以從檔案總管開啟以下檔案，選擇你喜歡的文字編輯器，並在提示時選擇一律用該編輯器開啟這種檔案類型來修正。",
+  "Makes all system fonts installed on the system available in the Font dropdowns. This function seems to cause Vortex to crash for a very small number of users and we have not been able to identify what sets the affected systems apart yet.": "讓系統上安裝的所有字型都能在字型下拉選單中選用。這項功能似乎會導致極少數使用者的 Vortex 當機，我們目前還無法確認受影響的系統有什麼特別之處。",
+  "Every dashlet (the widgets on the Dashboards) has a height that is a multiple of this value and a width of either 1/3, 2/3 or 3/3 of the window width. Here you can adjust the base height of dashlets but we can't promise every dashlet will look good or even be usable with non-default height.": "每個儀表板元件（儀表板上的小工具）的高度都是這個值的倍數，寬度則為視窗寬度的 1/3、2/3 或 3/3。你可以在這裡調整元件的基準高度，但我們無法保證每個元件在非預設高度下都好看，甚至能否正常使用。"
+}

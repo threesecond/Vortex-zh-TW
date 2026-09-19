@@ -1,0 +1,5 @@
+{
+  "Import External Mods": "匯入外部 Mods",
+  "External Mod Files Detected": "偵測到外部 Mod 檔案",
+  "Vortex has discovered the following unmanaged/external files in the the game's mods directory:[br][/br][br][/br]{{files}}[br][/br]Please note that the existence of these mods interferes with Vortex's load ordering functionality and as such, they should be removed using the same medium through which they have been added.[br][/br][br][/br]Alternatively, Vortex can try to import these files into its mods list which will allow Vortex to take control over them and display them inside the load ordering page. Vortex's load ordering functionality will not display external mod entries unless imported!": "Vortex 在遊戲的 mods 目錄中發現以下未受管理／外部的檔案：[br][/br][br][/br]{{files}}[br][/br]請注意，這些 mods 的存在會干擾 Vortex 的載入順序功能，因此應該用當初加入它們的同一種方式移除。[br][/br][br][/br]或者，Vortex 可以嘗試把這些檔案匯入它的 mods 清單，讓 Vortex 接管它們並顯示在載入順序頁面。除非匯入，否則 Vortex 的載入順序功能不會顯示外部 mod 項目！"
+}

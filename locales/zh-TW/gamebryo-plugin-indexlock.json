@@ -1,0 +1,3 @@
+{
+  "Use this to directly control the mod index of a plugin.\nThis will completely override the order generated automatically and is only intended as a temporary measure or during mod development.\n\nPlease note that if the index you choose is not possible because it's too low or too high, the plugin is prepended/appended to the list and will not have the expected mod index.\n\nFurther note: This lets you place non-master esps before masters but the game will not load them in this order.": "用這個直接控制插件的 mod 索引。\n這會完全覆蓋自動產生的順序，只適合作為暫時措施或在開發 mod 時使用。\n\n請注意，如果你選的索引因為太小或太大而不可行，插件會被放到清單的最前面或最後面，不會得到預期的 mod 索引。\n\n另外請注意：這允許你把非 master 的 esp 放在 master 之前，但遊戲不會照這個順序載入。"
+}

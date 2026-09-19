@@ -1,0 +1,7 @@
+{
+  "No Vortex uninstall key": "找不到 Vortex 解除安裝機碼",
+  "\"{{value}}\" vs \"{{expected}}\"": "\"{{value}}\" 對 \"{{expected}}\"",
+  "Vortex uninstall key is incomplete": "Vortex 解除安裝機碼不完整",
+  "Vortex uninstall path doesn't match current executable": "Vortex 解除安裝路徑與目前的執行檔不符",
+  "The uninstall key for Vortex is missing or corrupted. This may lead to problems the next time Vortex gets updated. Please reinstall Vortex.": "Vortex 的解除安裝機碼遺失或損毀。這可能導致下次 Vortex 更新時出現問題。請重新安裝 Vortex。"
+}

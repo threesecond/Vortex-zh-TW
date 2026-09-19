@@ -1,0 +1,9 @@
+{
+  "an unknown game": "未知的遊戲",
+  "Incompatible Archives": "不相容的封存檔",
+  "not managed by Vortex": "不受 Vortex 管理",
+  "Error checking for archive errors": "檢查封存檔錯誤時發生錯誤",
+  "Is loaded by {{plugin}}, but is intended for use in {{games}}.": "由 {{plugin}} 載入，但它是給 {{games}} 用的。",
+  "Some of the archives in your load order are incompatible with {{thisGame}}. Using incompatible archives may cause your game to crash on load.": "你載入順序中的某些封存檔與 {{thisGame}} 不相容。使用不相容的封存檔可能導致遊戲在載入時當機。",
+  "You can fix this problem yourself by removing any mods that are not intended to be used with {{thisGame}}. If you downloaded these mods from the correct game site at Nexus Mods, you should inform the mod author of this issue. Archives for this game must be {{ext}} files (v{{ver}}).": "你可以自行移除任何不是給 {{thisGame}} 用的 mods 來修正這個問題。如果這些 mods 是從 Nexus Mods 上正確的遊戲頁面下載的，你應該把這個問題告知 mod 作者。這款遊戲的封存檔必須是 {{ext}} 檔案（v{{ver}}）。"
+}

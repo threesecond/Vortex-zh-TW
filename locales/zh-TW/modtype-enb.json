@@ -1,0 +1,4 @@
+{
+  "Confirm mod installation": "確認安裝 mod",
+  "The mod you're about to install contains dll files that will run with the game, have the same access to your system and can thus cause considerable damage or infect your system with a virus if it's malicious.\nPlease install this mod only if you received it from a trustworthy source and if you have a virus scanner active right now.": "你即將安裝的 mod 含有會隨遊戲執行的 dll 檔案，它們對你系統的存取權限與遊戲相同，如果是惡意的，可能造成嚴重損害或讓系統感染病毒。\n請只在你是從可信任的來源取得這個 mod、且目前有啟用病毒掃描程式的情況下安裝。"
+}

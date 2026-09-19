@@ -1,0 +1,13 @@
+{
+  "Open Folder": "開啟資料夾",
+  "Open Archive": "開啟壓縮檔",
+  "Open in File Manager": "在檔案管理員中開啟",
+  "Open Game Mods Folder": "開啟遊戲 Mods 資料夾",
+  "Open Mod Staging Folder": "開啟 Mod 暫存資料夾",
+  "Open Game Settings Folder": "開啟遊戲設定資料夾",
+  "Failed to open game folder": "開啟遊戲資料夾失敗",
+  "Failed to open mod archive": "開啟 mod 壓縮檔失敗",
+  "Open Game Application Data Folder": "開啟遊戲應用程式資料資料夾",
+  "Failed to open the game mods folder": "開啟遊戲 mods 資料夾失敗",
+  "The mod archive could not be found.": "找不到 mod 壓縮檔。"
+}

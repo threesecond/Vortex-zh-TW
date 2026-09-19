@@ -1,0 +1,10 @@
+{
+  "UMM Support": "UMM 支援",
+  "Download UMM": "下載 UMM",
+  "Unity Mod Manager Required": "需要 Unity Mod Manager",
+  "Failed to register UMM game": "註冊 UMM 遊戲失敗",
+  "Failed to download UMM dependency": "下載 UMM 相依項目失敗",
+  "Failed to ensure UMM installation": "確認 UMM 安裝失敗",
+  "Once you allow Vortex to browse to GitHub - Please scroll down and click on \"{{archiveName}}\"": "允許 Vortex 開啟 GitHub 後－請往下捲動並按一下「{{archiveName}}」",
+  "The {{game}} game extension requires a 3rd party mod patching/injection tool called Unity Mod Manager (UMM).{{bl}}Vortex can walk you through the download/installation process; once complete, UMM will be available as a tool in your dashboard.Depending on the modding pattern of {{game}}, UMM may be a hard requirement for mods to function in-game, in which case you MUST have the tool installed and configured to inject mods into your game. (run the tool for more info)": "{{game}} 遊戲擴充套件需要一個第三方 mod 修補／注入工具，叫做 Unity Mod Manager（UMM）。{{bl}}Vortex 可以引導你完成下載／安裝流程；完成後，UMM 會以工具的形式出現在你的儀表板。視 {{game}} 的模組模式而定，UMM 可能是 mods 在遊戲內運作的硬性需求，這種情況下你「必須」安裝並設定這個工具，將 mods 注入你的遊戲。（執行該工具以了解更多）"
+}

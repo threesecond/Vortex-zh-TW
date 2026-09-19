@@ -1,0 +1,19 @@
+{
+  "Bug": "錯誤",
+  "Close": "關閉",
+  "Closed": "已關閉",
+  "has responded": "已回覆",
+  "Submit Feedback": "送出意見回饋",
+  "Your response to": "你對以下項目的回覆",
+  "Feedback required": "需要意見回饋",
+  "Unable to attach file": "無法附加檔案",
+  ", planned for {{date}}": "，預計於 {{date}}",
+  "{{completion}}%{{planned}}": "{{completion}}%{{planned}}",
+  "No Feedback Response Required": "不需要回覆",
+  "Milestone: {{title}} ({{state}})": "里程碑：{{title}}（{{state}}）",
+  "Feedback response sent successfully": "意見回饋回覆已成功送出",
+  "Issue details could not be fetched yet": "尚無法取得問題的詳細資料",
+  "Please provide a response of at least {{minLength}} characters": "請提供至少 {{minLength}} 個字元的回覆",
+  "You are not logged in. Please include your username in your message to give us a chance to reply.": "你尚未登入。請在訊息中附上你的使用者名稱，我們才有機會回覆你。",
+  "If you send feedback anonymously we can not give you updates on your report or enquire for more details.": "如果你以匿名方式傳送意見回饋，我們將無法向你回報後續進度，也無法追問更多細節。"
+}

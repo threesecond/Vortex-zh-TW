@@ -1,0 +1,14 @@
+{
+  "Copy Link": "複製連結",
+  "Open Report": "開啟報告",
+  "Save to file": "儲存到檔案",
+  "Create Report": "建立報告",
+  "Report created": "報告已建立",
+  "Report uploaded": "報告已上傳",
+  "Large number of files": "檔案數量很多",
+  "Failed to upload report": "上傳報告失敗",
+  "Failed to create mod report": "建立 mod 報告失敗",
+  "Cannot create report - mod no longer installed": "無法建立報告－mod 已不再安裝",
+  "This mod contains a large number of files, calculating checksums for each may take a while, but without them the report is slightly less useful.": "這個 mod 含有大量檔案，為每個檔案計算總和檢查碼可能需要一段時間，但少了它們，報告的用處會稍微降低。",
+  "Report has been uploaded. You can share this link with people trying to help you.<br/>[color=red]If you lose this link you will have to recreate the report.[/color]<br/><br/>": "報告已上傳。你可以把這個連結分享給想幫助你的人。<br/>[color=red]如果你弄丟了這個連結，就必須重新建立報告。[/color]<br/><br/>"
+}

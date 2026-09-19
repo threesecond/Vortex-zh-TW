@@ -1,0 +1,6 @@
+{
+  "Go to UMM page": "前往 UMM 頁面",
+  "Action required": "需要採取動作",
+  "More on Vortex Tools": "更多關於 Vortex 工具",
+  "Most Dawn of Man mods require Unity Mod Manager to be installed to run correctly.\nOnce installed, UMM must be used to inject your mods into the game itself.\nFor ease of use, UMM comes pre-added as a tool for Dawn of Man but you may have\nto configure it manually.\nFor usage information and download link please see UMM's page.\n\nPlease note: simpler \"Scenario\" mods can be used without UMM.": "大多數 Dawn of Man mods 需要安裝 Unity Mod Manager 才能正常執行。\n安裝後，必須用 UMM 把你的 mods 注入遊戲本身。\n為了方便使用，UMM 已預先加入為 Dawn of Man 的工具，但你可能需要\n手動設定它。\n使用說明與下載連結請見 UMM 的頁面。\n\n請注意：較簡單的「Scenario」mods 不需要 UMM 也能使用。"
+}

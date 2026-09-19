@@ -1,0 +1,5 @@
+{
+  "Action required": "需要採取動作",
+  "Go to Mod Engine Page": "前往 Mod Engine 頁面",
+  "Sekiro requires \"Sekiro Mod Engine\" for mods to install and function correctly.\nVortex is able to install Mod Engine automatically (as a mod) but please ensure it is enabled\nand deployed at all times.": "Sekiro 需要「Sekiro Mod Engine」才能讓 mods 正確安裝並運作。\nVortex 可以自動安裝 Mod Engine（作為一個 mod），但請確保它隨時\n保持啟用並已部署。"
+}

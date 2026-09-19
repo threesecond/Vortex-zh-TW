@@ -1,0 +1,29 @@
+{
+  "browse": {
+    "title": "瀏覽合集（{{total}}）",
+    "selectGame": "請先選擇一款遊戲以瀏覽合集。",
+    "noCollections": {
+      "title": "找不到這款遊戲的合集",
+      "message": "到網站上瀏覽 mods，開始打造你自己的組合。"
+    },
+    "searchPlaceholder": "搜尋合集…",
+    "searchTooShort": "搜尋至少需要 2 個字元。請輸入更多文字或清除搜尋。",
+    "resultsCount": "{{total}} 筆結果",
+    "sortBy": "排序依據",
+    "refresh": "重新整理",
+    "tabs": {
+      "collections": "合集",
+      "mods": "Mods"
+    },
+    "modsComingSoon": {
+      "title": "Mod 瀏覽功能即將推出",
+      "description": "你很快就能直接在 Vortex 裡瀏覽 mods。在那之前，請前往 Nexus Mods 探索並下載 mods。",
+      "openWebsite": "開啟 Nexus Mods 網站"
+    }
+  },
+  "pagination": {
+    "goTo": "前往：",
+    "pageNumber": "頁碼",
+    "go": "前往"
+  }
+}

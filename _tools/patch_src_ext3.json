@@ -1,0 +1,177 @@
+{
+  "game-dragons-dogma": {
+    "Invalid archive": "無效的壓縮檔",
+    "Please note: Vortex had attempted to automatically migrate your mods to the new mod format and has failed - you MUST re-install all your mods.\n\n": "請注意：Vortex 曾嘗試自動把你的 mods 遷移到新的 mod 格式但失敗了－你「必須」重新安裝所有 mods。\n\n",
+    "The archive \"{{archiveName}}\" does not fit the expected packaging pattern for this game, and probably will not install correctly. Are you sure you want to proceed?": "壓縮檔「{{archiveName}}」不符合這款遊戲預期的打包模式，很可能無法正確安裝。你確定要繼續嗎？",
+    "Please note: if you are happy with your current mod setup, and have not noticed any issues, it is perfectly possible that you are not affected and shouldn't feel forced to re-install, but should keep an eye out for weird behaviour.\n\n": "請注意：如果你對目前的 mod 配置很滿意，也沒有發現任何問題，那你很可能沒有受到影響，不必勉強重新安裝，但請留意是否有奇怪的行為。\n\n",
+    "It was raised to our attention that certain DDDA mods are not being installed correctly through Vortex. This due to an error in our installer's logic which ignored all mod files positioned outside the \"../nativePC/rom/\" directory.\n\nThis unfortunately means that the mods installed within the staging folder could potentially be missing files - these mods will not function correctly unless they are re-installed.\n\n{{pleasenote}}We are sorry for the inconvenience.": "我們注意到某些 DDDA mods 無法透過 Vortex 正確安裝。這是因為我們的安裝程式邏輯有誤，忽略了所有位於「../nativePC/rom/」目錄之外的 mod 檔案。\n\n遺憾的是，這表示暫存資料夾裡已安裝的 mods 可能缺少檔案－這些 mods 除非重新安裝，否則無法正常運作。\n\n{{pleasenote}}很抱歉造成你的不便。"
+  },
+  "game-kingdomcome-deliverance": {
+    "Failed to write to load order file": "寫入載入順序檔案失敗",
+    "Failed to re-instate manually added mods": "恢復手動加入的 mods 失敗",
+    "failed to read kingdom come mods directory": "讀取 Kingdom Come 的 mods 目錄失敗",
+    "Below is a preview of the load order for the mods that are included in the current collection. If you wish to modify the load please do so by opening the Load Order page; any changes made there will be reflected in this collection.": "下方是目前合集所含 mods 的載入順序預覽。如果你想修改載入順序，請開啟「載入順序」頁面進行；在那裡所做的任何變更都會反映到這個合集。",
+    "Note: Vortex will detect manually added mods as long as these have been added to the mod_order.txt file. Manually added mods are not managed by Vortex - to remove these, you will have to manually erase the entry from the mod_order.txt file.": "注意：只要手動加入的 mods 已加進 mod_order.txt 檔案，Vortex 就會偵測到它們。手動加入的 mods 不受 Vortex 管理－要移除它們，你必須手動從 mod_order.txt 檔案中刪除該項目。",
+    "Drag and drop the mods on the left to reorder them. Kingdom Come: Deliverance uses a mod_order.txt file to define the order in which mods are loaded, Vortex will write the folder names of the displayed mods in the order you have set. Mods placed at the bottom of the load order will have priority over those above them.": "拖放左側的 mods 來重新排序。Kingdom Come: Deliverance 用 mod_order.txt 檔案定義 mods 的載入順序，Vortex 會依你設定的順序寫入所顯示 mods 的資料夾名稱。放在載入順序底部的 mods 優先於上方的 mods。"
+  },
+  "game-monster-hunter-world": {
+    "Action required": "需要採取動作",
+    "Download ReShade": "下載 ReShade",
+    "Go to Stracker's Loader mod page": "前往 Stracker's Loader 的 mod 頁面",
+    "\"Stracker's Loader\" not installed/configured": "「Stracker's Loader」未安裝或未設定",
+    "Monster Hunter: World requires \"Stracker's Loader\" for most mods to install and function correctly.\nVortex is able to install Stracker's Loader automatically (as a mod) but please ensure it is enabled\nand deployed at all times.": "Monster Hunter: World 的大多數 mods 需要「Stracker's Loader」才能正確安裝並運作。\nVortex 可以自動安裝 Stracker's Loader（作為一個 mod），但請確保它隨時\n保持啟用並已部署。",
+    "You're attempting to install what appears to be a ReShade mod, but Vortex is unable to confirm whether\n ReShade is installed. \n\nThe mod will still be installed, but please keep in mind that this mod will not function without ReShade.": "你正嘗試安裝的似乎是 ReShade mod，但 Vortex 無法確認\n ReShade 是否已安裝。\n\n這個 mod 仍會被安裝，但請記住，沒有 ReShade 這個 mod 無法運作。"
+  },
+  "quickbms-support": {
+    "QBMS Support": "QBMS 支援",
+    "Deprecated QB API": "已淘汰的 QB API",
+    "QBMS operation completed": "QBMS 操作已完成",
+    "failed to execute qbms operation": "執行 QBMS 操作失敗",
+    "Game extension is using deprecated QBMS API calls": "遊戲擴充套件正在使用已淘汰的 QBMS API 呼叫",
+    "This extension is using deprecated QBMS API calls which will eventually be removed - please inform the extension developer to update it ASAP!": "這個擴充套件正在使用已淘汰、最終會被移除的 QBMS API 呼叫－請通知擴充套件的開發者盡快更新！"
+  },
+  "game-dawnofman": {
+    "Go to UMM page": "前往 UMM 頁面",
+    "Action required": "需要採取動作",
+    "More on Vortex Tools": "更多關於 Vortex 工具",
+    "Most Dawn of Man mods require Unity Mod Manager to be installed to run correctly.\nOnce installed, UMM must be used to inject your mods into the game itself.\nFor ease of use, UMM comes pre-added as a tool for Dawn of Man but you may have\nto configure it manually.\nFor usage information and download link please see UMM's page.\n\nPlease note: simpler \"Scenario\" mods can be used without UMM.": "大多數 Dawn of Man mods 需要安裝 Unity Mod Manager 才能正常執行。\n安裝後，必須用 UMM 把你的 mods 注入遊戲本身。\n為了方便使用，UMM 已預先加入為 Dawn of Man 的工具，但你可能需要\n手動設定它。\n使用說明與下載連結請見 UMM 的頁面。\n\n請注意：較簡單的「Scenario」mods 不需要 UMM 也能使用。"
+  },
+  "game-microsoftflightsimulator": {
+    "Pick target": "選擇目標",
+    "failed to update layout.json of merge mod": "更新合併 mod 的 layout.json 失敗",
+    "If you have multiple mods replacing the same content (e.g. engine settings for a plane, in contrast to stuff like liveries that you can select in-game) only the one loaded last here will take effect.": "如果你有多個 mods 取代同一內容（例如某架飛機的引擎設定，而不是塗裝這類可以在遊戲內選擇的東西），只有這裡最後載入的那一個會生效。",
+    "The way this mod is structured it looks like it's intended to replace official content but we can't automatically determine which. Please pick from the possible options below to complete the installation.": "從這個 mod 的結構看來，它似乎是要取代官方內容，但我們無法自動判定是哪一個。請從下方可能的選項中選擇，以完成安裝。"
+  },
+  "game-morrowind": {
+    "Failed to save": "儲存失敗",
+    "Mutliple Languages Available": "有多種語言可用",
+    "Failed to read list of plugins": "讀取插件清單失敗",
+    "{{gameName}} has multiple language options when downloaded from {{storeName}}. [br][/br][br][/br]Vortex has selected the English variant by default. [br][/br][br][/br]If you would prefer to manage a different language you can change the path to the game using the \"Manually Set Location\" option in the games tab.": "從 {{storeName}} 下載的 {{gameName}} 有多種語言選項。[br][/br][br][/br]Vortex 預設選擇了英文變體。[br][/br][br][/br]如果你想管理其他語言的版本，可以在「遊戲」分頁用「手動設定位置」選項更改遊戲的路徑。"
+  },
+  "game-neverwinter-nights": {
+    "Multiple mod paths": "多個 mod 路徑",
+    "Go to Documents Folder": "前往文件資料夾",
+    "Multiple mod paths detected": "偵測到多個 mod 路徑",
+    "Vortex has detected multiple \"viable\" Neverwinter Nights mod paths on your system:\n\n{{modPaths}}\n\nPlease note that Vortex will only deploy mods to the following mod path:\n\n\"{{modsPath}}\"\n\nWe recommend you rename/remove the other mod paths to ensure the game uses the same one that Vortex uses or your mods might not show correctly inside your game.": "Vortex 在你的系統上偵測到多個「可用」的 Neverwinter Nights mod 路徑：\n\n{{modPaths}}\n\n請注意，Vortex 只會把 mods 部署到以下 mod 路徑：\n\n「{{modsPath}}」\n\n我們建議你重新命名或移除其他 mod 路徑，以確保遊戲使用的路徑與 Vortex 相同，否則你的 mods 可能無法在遊戲內正確顯示。"
+  },
+  "game-bloodstainedritualofthenight": {
+    "Import External Mods": "匯入外部 Mods",
+    "External Mod Files Detected": "偵測到外部 Mod 檔案",
+    "Vortex has discovered the following unmanaged/external files in the the game's mods directory:[br][/br][br][/br]{{files}}[br][/br]Please note that the existence of these mods interferes with Vortex's load ordering functionality and as such, they should be removed using the same medium through which they have been added.[br][/br][br][/br]Alternatively, Vortex can try to import these files into its mods list which will allow Vortex to take control over them and display them inside the load ordering page. Vortex's load ordering functionality will not display external mod entries unless imported!": "Vortex 在遊戲的 mods 目錄中發現以下未受管理／外部的檔案：[br][/br][br][/br]{{files}}[br][/br]請注意，這些 mods 的存在會干擾 Vortex 的載入順序功能，因此應該用當初加入它們的同一種方式移除。[br][/br][br][/br]或者，Vortex 可以嘗試把這些檔案匯入它的 mods 清單，讓 Vortex 接管它們並顯示在載入順序頁面。除非匯入，否則 Vortex 的載入順序功能不會顯示外部 mod 項目！"
+  },
+  "game-codevein": {
+    "Import External Mods": "匯入外部 Mods",
+    "External Mod Files Detected": "偵測到外部 Mod 檔案",
+    "Vortex has discovered the following unmanaged/external files in the the game's mods directory:[br][/br][br][/br]{{files}}[br][/br]Please note that the existence of these mods interferes with Vortex's load ordering functionality and as such, they should be removed using the same medium through which they have been added.[br][/br][br][/br]Alternatively, Vortex can try to import these files into its mods list which will allow Vortex to take control over them and display them inside the load ordering page. Vortex's load ordering functionality will not display external mod entries unless imported!": "Vortex 在遊戲的 mods 目錄中發現以下未受管理／外部的檔案：[br][/br][br][/br]{{files}}[br][/br]請注意，這些 mods 的存在會干擾 Vortex 的載入順序功能，因此應該用當初加入它們的同一種方式移除。[br][/br][br][/br]或者，Vortex 可以嘗試把這些檔案匯入它的 mods 清單，讓 Vortex 接管它們並顯示在載入順序頁面。除非匯入，否則 Vortex 的載入順序功能不會顯示外部 mod 項目！"
+  },
+  "game-spyroreignitedtrilogy": {
+    "Import External Mods": "匯入外部 Mods",
+    "External Mod Files Detected": "偵測到外部 Mod 檔案",
+    "Vortex has discovered the following unmanaged/external files in the the game's mods directory:[br][/br][br][/br]{{files}}[br][/br]Please note that the existence of these mods interferes with Vortex's load ordering functionality and as such, they should be removed using the same medium through which they have been added.[br][/br][br][/br]Alternatively, Vortex can try to import these files into its mods list which will allow Vortex to take control over them and display them inside the load ordering page. Vortex's load ordering functionality will not display external mod entries unless imported!": "Vortex 在遊戲的 mods 目錄中發現以下未受管理／外部的檔案：[br][/br][br][/br]{{files}}[br][/br]請注意，這些 mods 的存在會干擾 Vortex 的載入順序功能，因此應該用當初加入它們的同一種方式移除。[br][/br][br][/br]或者，Vortex 可以嘗試把這些檔案匯入它的 mods 清單，讓 Vortex 接管它們並顯示在載入順序頁面。除非匯入，否則 Vortex 的載入順序功能不會顯示外部 mod 項目！"
+  },
+  "game-darksouls": {
+    "Action required": "需要採取動作",
+    "Go to DSfix page": "前往 DSfix 頁面",
+    "Modding Dark Souls requires a tool called DSfix": "為 Dark Souls 安裝模組需要一個叫 DSfix 的工具"
+  },
+  "game-gardenpaws": {
+    "Action required": "需要採取動作",
+    "Go to the Unity Mod Manager page": "前往 Unity Mod Manager 頁面",
+    "You must install Unity Mod Manager to use mods with ": "必須安裝 Unity Mod Manager 才能使用 mods："
+  },
+  "game-oni": {
+    "Action required": "需要採取動作",
+    "Go to the Unity Mod Manager page": "前往 Unity Mod Manager 頁面",
+    "You must install Unity Mod Manager to use mods with ": "必須安裝 Unity Mod Manager 才能使用 mods："
+  },
+  "game-pathfinderkingmaker": {
+    "Action required": "需要採取動作",
+    "Go to the Unity Mod Manager page": "前往 Unity Mod Manager 頁面",
+    "You must install Unity Mod Manager to use mods with ": "必須安裝 Unity Mod Manager 才能使用 mods："
+  },
+  "game-sekiro": {
+    "Action required": "需要採取動作",
+    "Go to Mod Engine Page": "前往 Mod Engine 頁面",
+    "Sekiro requires \"Sekiro Mod Engine\" for mods to install and function correctly.\nVortex is able to install Mod Engine automatically (as a mod) but please ensure it is enabled\nand deployed at all times.": "Sekiro 需要「Sekiro Mod Engine」才能讓 mods 正確安裝並運作。\nVortex 可以自動安裝 Mod Engine（作為一個 mod），但請確保它隨時\n保持啟用並已部署。"
+  },
+  "game-sw-kotor": {
+    "Invalid Mod": "無效的 Mod",
+    "The mod you're installing is meant to be installed/run with the TSLPatcher tool - Vortex cannot install this mod": "你正在安裝的 mod 必須用 TSLPatcher 工具安裝或執行－Vortex 無法安裝這個 mod",
+    "Vortex cannot install TSLPatcher as a mod - this is a separate utility application which should be installed and used separately.": "Vortex 無法把 TSLPatcher 當成 mod 安裝－它是獨立的公用程式，應該另外安裝並使用。"
+  },
+  "game-x4foundations": {
+    "Mods for X4 need to be reinstalled": "X4 的 mods 需要重新安裝",
+    "Due to a bug in our X4 mod installer, some of your mods have been extracted into a potentially invalid mod folder, and may be causing your game to behave unexpectedly. To resolve this - please re-install the following mods:\n\n": "由於我們的 X4 mod 安裝程式有一個程式錯誤，你的某些 mods 被解壓縮到可能無效的 mod 資料夾，可能導致遊戲出現非預期的行為。要解決這個問題－請重新安裝以下 mods：\n\n"
+  },
+  "mtframework-arc-support": {
+    "ARC Support": "ARC 支援",
+    "ARCtool has failed.": "ARCtool 執行失敗。",
+    "ARCtool.exe failed with status code ": "ARCtool.exe 失敗，狀態碼："
+  },
+  "game-conanexiles": {
+    "Failed to write mod list": "寫入 mod 清單失敗",
+    "Please refer to mod descriptions from mod authors to determine the right order. If you can't find any suggestions for a mod, it probably doesn't matter.": "請參考 mod 作者的 mod 說明來決定正確的順序。如果找不到某個 mod 的任何建議，那它的順序可能無關緊要。"
+  },
+  "game-fallout3": {
+    "Mutliple Languages Available": "有多種語言可用",
+    "{{gameName}} has multiple language options when downloaded from {{storeName}}. [br][/br][br][/br]Vortex has selected the English variant by default. [br][/br][br][/br]If you would prefer to manage a different language you can change the path to the game using the \"Manually Set Location\" option in the games tab.": "從 {{storeName}} 下載的 {{gameName}} 有多種語言選項。[br][/br][br][/br]Vortex 預設選擇了英文變體。[br][/br][br][/br]如果你想管理其他語言的版本，可以在「遊戲」分頁用「手動設定位置」選項更改遊戲的路徑。"
+  },
+  "game-fallout4vr": {
+    "ESL Support": "ESL 支援",
+    "Fallout 4 VR requires a mod to enable ESL support. Mod must be installed through Vortex for ESL support to work.": "Fallout 4 VR 需要一個 mod 來啟用 ESL 支援。該 mod 必須透過 Vortex 安裝，ESL 支援才能運作。"
+  },
+  "game-falloutnv": {
+    "Mutliple Languages Available": "有多種語言可用",
+    "{{gameName}} has multiple language options when downloaded from {{storeName}}. [br][/br][br][/br]Vortex has selected the {{selectedLanguage}} variant by default. [br][/br][br][/br]If you would prefer to manage a different language you can change the path to the game using the \"Manually Set Location\" option in the games tab.": "從 {{storeName}} 下載的 {{gameName}} 有多種語言選項。[br][/br][br][/br]Vortex 預設選擇了 {{selectedLanguage}} 變體。[br][/br][br][/br]如果你想管理其他語言的版本，可以在「遊戲」分頁用「手動設定位置」選項更改遊戲的路徑。"
+  },
+  "game-masterchiefcollection": {
+    "Failed to read mod manifest file": "讀取 mod 資訊清單檔案失敗",
+    "Failed to write mod manifest file": "寫入 mod 資訊清單檔案失敗"
+  },
+  "game-oblivion": {
+    "Mutliple Languages Available": "有多種語言可用",
+    "{{gameName}} has multiple language options when downloaded from {{storeName}}. [br][/br][br][/br]Vortex has selected the English variant by default. [br][/br][br][/br]If you would prefer to manage a different language you can change the path to the game using the \"Manually Set Location\" option in the games tab.": "從 {{storeName}} 下載的 {{gameName}} 有多種語言選項。[br][/br][br][/br]Vortex 預設選擇了英文變體。[br][/br][br][/br]如果你想管理其他語言的版本，可以在「遊戲」分頁用「手動設定位置」選項更改遊戲的路徑。"
+  },
+  "game-pillarsofeternity2": {
+    "Failed to update modorder": "更新 modorder 失敗",
+    "Invalid modconfig.json file": "無效的 modconfig.json 檔案"
+  },
+  "game-skyrimvr": {
+    "ESL Support": "ESL 支援",
+    "Skyrim VR requires a mod to enable ESL support. Mod must be installed through Vortex for ESL support to work.": "Skyrim VR 需要一個 mod 來啟用 ESL 支援。該 mod 必須透過 Vortex 安裝，ESL 支援才能運作。"
+  },
+  "game-worldoftanks": {
+    "Game not installed": "遊戲尚未安裝",
+    "World of Tanks doesn't seem to be installed correctly. Please check the version.xml file in your game directory.": "World of Tanks 似乎沒有正確安裝。請檢查遊戲目錄中的 version.xml 檔案。"
+  },
+  "modtype-dinput": {
+    "Confirm mod installation": "確認安裝 mod",
+    "The mod you're about to install contains dll files that will run with the game, have the same access to your system and can thus cause considerable damage or infect your system with a virus if it's malicious.\nPlease install this mod only if you received it from a trustworthy source and if you have a virus scanner active right now.": "你即將安裝的 mod 含有會隨遊戲執行的 dll 檔案，它們對你系統的存取權限與遊戲相同，如果是惡意的，可能造成嚴重損害或讓系統感染病毒。\n請只在你是從可信任的來源取得這個 mod、且目前有啟用病毒掃描程式的情況下安裝。"
+  },
+  "modtype-enb": {
+    "Confirm mod installation": "確認安裝 mod",
+    "The mod you're about to install contains dll files that will run with the game, have the same access to your system and can thus cause considerable damage or infect your system with a virus if it's malicious.\nPlease install this mod only if you received it from a trustworthy source and if you have a virus scanner active right now.": "你即將安裝的 mod 含有會隨遊戲執行的 dll 檔案，它們對你系統的存取權限與遊戲相同，如果是惡意的，可能造成嚴重損害或讓系統感染病毒。\n請只在你是從可信任的來源取得這個 mod、且目前有啟用病毒掃描程式的情況下安裝。"
+  },
+  "modtype-gedosato": {
+    "GeDoSaTo not installed": "尚未安裝 GeDoSaTo",
+    "This looks like a mod that requires the tool GeDoSaTo<br />To use it, you should cancel this installation now, get GeDoSaTo and then retry. If you continue now, the mod may not be installed correctly and will not work even after you install GeDoSaTo.<br />Download from here: [url]https://community.pcgamingwiki.com/files/file/897-gedosato/[/url]<br />": "這看起來是一個需要 GeDoSaTo 工具的 mod<br />要使用它，你應該現在取消安裝，先取得 GeDoSaTo 再重試。如果你現在繼續，這個 mod 可能無法正確安裝，即使之後安裝了 GeDoSaTo 也無法運作。<br />從這裡下載：[url]https://community.pcgamingwiki.com/files/file/897-gedosato/[/url]<br />"
+  },
+  "game-battletech": {
+    "Failed to re-import mod file": "重新匯入 mod 檔案失敗"
+  },
+  "game-divinityoriginalsin2": {
+    "Please remember to enable mods in-game": "請記得在遊戲內啟用 mods"
+  },
+  "game-galciv3": {
+    "Please remember to enable mods in-game": "請記得在遊戲內啟用 mods"
+  },
+  "game-greedfall": {
+    "Failed to change file access/modified time": "變更檔案的存取／修改時間失敗"
+  },
+  "game-rimworld": {
+    "The archive {{modName}} might not get installed correctly, please review the mod description and the staging folder for the mod.": "壓縮檔 {{modName}} 可能無法正確安裝，請檢視該 mod 的說明與它的暫存資料夾。"
+  },
+  "game-wolcen": {
+    "Failed to merge xml file, this indicates a bug in the mod owning this file": "合併 xml 檔案失敗，這表示擁有這個檔案的 mod 有程式錯誤"
+  }
+}
