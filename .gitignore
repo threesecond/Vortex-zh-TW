@@ -1,17 +1,10 @@
 # Python
 __pycache__/
 
-# _tools 的可再生產出
-_tools/report.txt
-_tools/missing.json
-_tools/alias_missing.txt
-_tools/alias_missing.json
-_tools/apply_report.txt
-_tools/api_missing.txt
-_tools/api_missing.json
-_tools/sources_missing.txt
-_tools/sources_missing.json
-_tools/sources/
+# 內部工具與紀錄
+_tools/
+CLAUDE.md
+README.txt
 
 # 發布壓縮檔
 *.zip
