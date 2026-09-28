@@ -108,7 +108,8 @@
       "adult": "成人",
       "installed": "已安裝",
       "enabled": "已啟用",
-      "disabled": "已停用"
+      "disabled": "已停用",
+      "view_mod_page": "檢視 mod 頁面"
     },
     "feedback_modal": {
       "title": "感謝你的回報",

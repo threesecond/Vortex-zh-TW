@@ -1,12 +1,12 @@
 # Vortex 繁體中文（臺灣正體）語言包
 
 [![Release](https://img.shields.io/github/v/release/threesecond/Vortex-zh-TW?include_prereleases&color=blue&label=最新版本)](https://github.com/threesecond/Vortex-zh-TW/releases)
-[![Target Vortex](https://img.shields.io/badge/Vortex-2.6.3-brightgreen)](https://www.nexusmods.com/site/mods/1)
+[![Target Vortex](https://img.shields.io/badge/Vortex-2.7.1-brightgreen)](https://www.nexusmods.com/site/mods/1)
 [![License](https://img.shields.io/badge/授權-自由轉載與修改-blue)](#授權)
 
 適用於 Nexus Mods 官方模組管理器 [Vortex](https://www.nexusmods.com/site/mods/1) 的臺灣繁體正體中文語言包。
 
-Vortex 官方具備完整的多國語言架構，但長年未內建臺灣繁體中文。本專案補齊了這個缺口，完整翻譯 Vortex 本體與全部 76 個內建擴充套件介面，涵蓋 **3,700+ 條字串**。
+Vortex 官方具備完整的多國語言架構，但長年未內建臺灣繁體中文。本專案補齊了這個缺口，完整翻譯 Vortex 本體與全部 76 個內建擴充套件介面，涵蓋 **3,770+ 條字串**。
 
 ---
 
@@ -42,8 +42,9 @@ Vortex 官方具備完整的多國語言架構，但長年未內建臺灣繁體�
 
 | Vortex 版本 | 相容性 | 說明 |
 |---|---|---|
-| **Vortex 2.6.3** | 完整支援（推薦） | 本語言包依此版本為基準製作，完成完整掃描與校對 |
-| **Vortex 2.5.x** | 相容可用 | 少數新版新增字串會自動退回英文顯示 |
+| **Vortex 2.7.1** | 完整支援（推薦） | 本語言包依此版本為基準製作，完成完整掃描與校對 |
+| **Vortex 2.6.x** | 相容可用 | 少數新版新增字串會自動退回英文顯示 |
+| **Vortex 2.5.x** | 相容可用 | 同上 |
 | **Vortex 2.4.x** | 相容可用 | 同上 |
 | **Vortex 1.x** | 不支援 | 1.x 介面與核心架構完全不同，語言包無法通用 |
 
@@ -152,13 +153,18 @@ Vortex 尋找語言檔時依序檢查三個層級，且採取**命中即停（Fi
 
 以下介面文字顯示英文為正常現象，無法透過語言包修改：
 
-1. **Vortex 程式碼寫死（Hardcoded Strings）**：
-   部分較新的 React 元件將英文直接寫死在 JSX 代碼中未接入 `t()` 函式（如：合集瀏覽頁面的排序選單 `Most Endorsed`、下載時的 `Free vs Premium` 比較彈窗、首頁的 Premium 宣傳區塊等）。需待 Vortex 官方後續改版支援國際化。
-2. **動態外部資料（Data）**：
+1. **Vortex 程式碼寫死或元件屬性未接入 `t()`（Hardcoded Strings / Missing i18n）**：
+   - 部分 React 元件將英文直接寫死在 JSX 代碼中未接入 `t()` 函式（如：合集瀏覽頁面的排序選單 `Most Endorsed`、下載時的 `Free vs Premium` 比較彈窗、首頁 Premium 宣傳區塊、下載頁頂部速限橫幅、檔案式載入順序頁面工具列按鈕等）。
+   - **新工具列 Hook 架構瑕疵**：Mods 頁面工具列下拉選單中由擴充套件動態註冊的動作（`History`、`Categories`、`Manage Rules`、`Reset to manifest`），因上游程式碼直接將英文識別碼指定給顯示標籤且漏呼叫 `t()`，即使語言包內已翻譯，畫面上仍會強制顯示英文。
+   - **BBCode 對話框繞過 i18n**：Mod 暫存資料夾無效對話框的內文，因上游程式碼為防標籤衝突刻意跳過 `t()`，無法由語言包替換。
+   需待 Vortex 官方後續改版修復。
+2. **第三方社群擴充套件（Third-Party Extensions）**：
+   玩家自行安裝至 `%APPDATA%\Vortex\plugins\` 的社群外掛（如 Ninja Gaiden、Expedition 33 等插件的專屬對話框與說明面板），非官方內建代碼且作者未實作國際化支援，語言包無法介入。
+3. **動態外部資料與系統資訊（Data）**：
    - 來自 Nexus Mods 伺服器的動態內容（首頁新聞、更新日誌、教學影片標題）。
    - 各 Mod 的名稱、作者說明與分類標籤（如 `Vanilla Plus`、`Adult` 等）。
    - 遊戲本體名稱（Baldur's Gate 3、Cyberpunk 2077 等）與外部輔助工具名（LOOT、FNIS、SMAPI、BepInEx）。
-   - 底層系統錯誤代碼（如 `ENOENT`、JS 例外訊息）。
+   - 底層系統錯誤代碼與例外物件（如 `ENOENT`、`UserCanceled` / `canceled by user` 等 JS 例外訊息）。
 
 ---
 

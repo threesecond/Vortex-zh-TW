@@ -1,4 +1,5 @@
 {
   "Failed to update modorder": "更新 modorder 失敗",
-  "Invalid modconfig.json file": "無效的 modconfig.json 檔案"
+  "Invalid modconfig.json file": "無效的 modconfig.json 檔案",
+  "Your mod configuration file is invalid, you must remove/fix this file for the mods to function correctly. The file is located in: \"C:\\Users\\{YOUR_USERNAME}\\AppData\\LocalLow\\Obsidian Entertainment\\Pillars of Eternity II\\modconfig.json\"": "你的 mod 設定檔無效，必須移除或修正此檔案，mods 才能正常運作。檔案位置於：\"C:\\Users\\{YOUR_USERNAME}\\AppData\\LocalLow\\Obsidian Entertainment\\Pillars of Eternity II\\modconfig.json\""
 }
