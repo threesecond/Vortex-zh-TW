@@ -1,0 +1,20 @@
+{
+  "dialog": {
+    "title": "建立支援資料包",
+    "intro": "Vortex 正在把記錄檔、目前的應用程式狀態與最近的當機傾印檔打包成單一壓縮檔。其中不包含任何登入資訊。",
+    "sendTo": "請把這個壓縮檔連同問題的簡短描述，透過 Vortex 論壇或 Discord 傳送給 Vortex 團隊：",
+    "links": {
+      "forums": "Vortex 支援論壇",
+      "discord": "Nexus Mods Discord"
+    },
+    "building": "正在建立支援資料包…",
+    "archiveReady": "你的支援資料包已準備好。",
+    "failed": "Vortex 無法建立支援資料包。",
+    "buttons": {
+      "open": "在資料夾中顯示",
+      "cancel": "取消",
+      "close": "關閉",
+      "tryAgain": "再試一次"
+    }
+  }
+}
