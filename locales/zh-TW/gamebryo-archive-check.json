@@ -2,6 +2,7 @@
   "an unknown game": "未知的遊戲",
   "Incompatible Archives": "不相容的封存檔",
   "not managed by Vortex": "不受 Vortex 管理",
+  "Incompatible mod archive(s)": "不相容的 mod 封存檔",
   "Error checking for archive errors": "檢查封存檔錯誤時發生錯誤",
   "Is loaded by {{plugin}}, but is intended for use in {{games}}.": "由 {{plugin}} 載入，但它是給 {{games}} 用的。",
   "Some of the archives in your load order are incompatible with {{thisGame}}. Using incompatible archives may cause your game to crash on load.": "你載入順序中的某些封存檔與 {{thisGame}} 不相容。使用不相容的封存檔可能導致遊戲在載入時當機。",

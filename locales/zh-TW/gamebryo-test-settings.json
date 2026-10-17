@@ -1,4 +1,7 @@
 {
+  "Fonts missing.": "缺少字型。",
   "Failed to read default fonts": "讀取預設字型失敗",
+  "Failed to read Oblivion.ini.": "讀取 Oblivion.ini 失敗。",
+  "Failed to read fontconfig.txt.": "讀取 fontconfig.txt 失敗。",
   "\"Skyrim - Interface.bsa\" appears to be missing": "「Skyrim - Interface.bsa」似乎遺失了"
 }

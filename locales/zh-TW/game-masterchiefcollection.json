@@ -1,4 +1,5 @@
 {
   "Failed to read mod manifest file": "讀取 mod 資訊清單檔案失敗",
-  "Failed to write mod manifest file": "寫入 mod 資訊清單檔案失敗"
+  "Failed to write mod manifest file": "寫入 mod 資訊清單檔案失敗",
+  "Halo: CE Multiplayer maps are missing": "缺少 Halo: CE 多人連線地圖"
 }

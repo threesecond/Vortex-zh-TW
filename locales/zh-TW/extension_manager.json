@@ -1,0 +1,12 @@
+{
+  "linkDialog": {
+    "title": "有可用的 Vortex 擴充套件更新",
+    "intro": "Vortex 發現有些擴充套件是在來源不明的情況下安裝的，並在 Nexus Mods 上找到了可能的替代版本。",
+    "select": "請選擇要替換的擴充套件。未選取的擴充套件將維持不變，之後也不會再詢問。",
+    "replaceWith": "替換為",
+    "buttons": {
+      "later": "稍後",
+      "update": "更新所選項目"
+    }
+  }
+}

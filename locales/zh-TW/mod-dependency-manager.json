@@ -31,6 +31,7 @@
   "Remove file overrides": "移除檔案覆蓋",
   "{{count}} dependencies": "{{count}} 個相依項目",
   "{{count}} dependencies_0": "{{count}} 個相依項目",
+  "unsolved-conflicts-first": "這個 mod 有尚未解決的衝突。請先<2>建立 mod 規則</2>來決定預設的載入順序，這個畫面只用來設定例外。",
   "Failed to highlight cycle": "標示循環失敗",
   "Doesn't match the file name": "與檔案名稱不符",
   "Failed to refresh mod rules": "重新整理 mod 規則失敗",
