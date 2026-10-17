@@ -1,7 +1,7 @@
 # Vortex 繁體中文（臺灣正體）語言包
 
 [![Release](https://img.shields.io/github/v/release/threesecond/Vortex-zh-TW?include_prereleases&color=blue&label=最新版本)](https://github.com/threesecond/Vortex-zh-TW/releases)
-[![Target Vortex](https://img.shields.io/badge/Vortex-2.8.0-brightgreen)](https://www.nexusmods.com/site/mods/1)
+[![Target Vortex](https://img.shields.io/badge/Vortex-2.8.2-brightgreen)](https://www.nexusmods.com/site/mods/1)
 [![License](https://img.shields.io/badge/授權-自由轉載與修改-blue)](#授權)
 
 適用於 Nexus Mods 官方模組管理器 [Vortex](https://www.nexusmods.com/site/mods/1) 的臺灣繁體正體中文語言包。
@@ -42,7 +42,7 @@ Vortex 官方具備完整的多國語言架構，但長年未內建臺灣繁體�
 
 | Vortex 版本 | 相容性 | 說明 |
 |---|---|---|
-| **Vortex 2.8.0** | 完整支援（推薦） | 本語言包依此版本為基準製作，完成完整掃描與校對 |
+| **Vortex 2.8.2** | 完整支援（推薦） | 本語言包依此版本為基準製作，完成完整掃描與校對 |
 | **Vortex 2.7.x** | 相容可用 | 少數新版新增字串會自動退回英文顯示 |
 | **Vortex 2.6.x** | 相容可用 | 少數新版新增字串會自動退回英文顯示 |
 | **Vortex 2.5.x** | 相容可用 | 同上 |
