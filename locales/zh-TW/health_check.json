@@ -49,7 +49,19 @@
       "message": "健康檢查在它能執行的檢查中沒有發現問題。登入後還能檢查是否缺少 Nexus Mods 的需求項目。",
       "action": "登入以完成健康檢查"
     },
-    "external_mod_install": "外部 mod 安裝"
+    "external_mod_install": "外部 mod 安裝",
+    "section": {
+      "warning": {
+        "title": "警告",
+        "description": "可能導致部分模組配置無法運作的問題。"
+      },
+      "suggestion": {
+        "title": "建議",
+        "description": "可能改善你的模組配置或加入選用附加內容的變更。"
+      },
+      "collapse": "收合區段",
+      "expand": "展開區段"
+    }
   },
   "detail": {
     "title": {
@@ -174,6 +186,19 @@
     "wrong_version_enabled": "需要啟用這個已安裝 mod 檔案的另一個版本才能正常運作：",
     "wrong_version_enabled_plural": "需要啟用 {{ count }} 個已安裝 mod 檔案的另一個版本才能正常運作：",
     "correct_version_uninstalled": "需要安裝這個先前已下載的 mod 檔案才能正常運作：",
-    "correct_version_uninstalled_plural": "需要安裝 {{ count }} 個先前已下載的 mod 檔案才能正常運作："
+    "correct_version_uninstalled_plural": "需要安裝 {{ count }} 個先前已下載的 mod 檔案才能正常運作：",
+    "mod_may_be_required_for": "缺少的 mod 可能是以下項目所需：{{modName}}"
+  },
+  "author_notes_modal": {
+    "title": "檢視 mod 作者備註",
+    "description": "部分建議的 mods 附有作者的額外說明，且不一定是必要的。",
+    "prompt": "請檢視下列備註，並選擇要安裝哪些 mods。",
+    "required_for": "適用於以下 mods：",
+    "buttons": {
+      "cancel": "取消",
+      "install": "安裝已選取項目（{{count}}）",
+      "install_0": "安裝已選取項目（{{count}}）",
+      "install_plural": "安裝已選取項目（{{count}}）"
+    }
   }
 }
