@@ -4,6 +4,7 @@ __pycache__/
 # 內部工具與紀錄
 _tools/
 CLAUDE.md
+AGENTS.md
 README.txt
 
 # 發布壓縮檔

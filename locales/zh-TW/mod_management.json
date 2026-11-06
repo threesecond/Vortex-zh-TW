@@ -1,0 +1,22 @@
+{
+  "collection_update_warning": {
+    "cancel": "取消",
+    "single": {
+      "title": "要更新這個 mod 嗎？",
+      "intro": "這個 mod 屬於下列合集：",
+      "curator_version": "這些合集使用由其策展者選定的版本。",
+      "caution": "如果策展者建議此更新，你可以繼續。否則，更新可能會導致合集無法照預期運作。",
+      "acknowledge": "我了解更新這個 mod 可能會影響我的合集。",
+      "update_anyway": "仍要更新"
+    },
+    "batch": {
+      "title": "要更新這些 mods 嗎？",
+      "intro": "這些 mods 中有部分屬於下列合集：",
+      "curator_version": "這些合集使用由其策展者選定的版本。",
+      "caution": "如果策展者建議這些更新，你可以繼續。否則，更新可能會導致這些合集無法照預期運作。",
+      "acknowledge": "我了解更新這些 mods 可能會影響我的合集。",
+      "update_all": "全部更新",
+      "update_non_collection": "更新非合集的 mods"
+    }
+  }
+}
